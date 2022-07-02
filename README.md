@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepper-pudding&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img align="right" src="http://mazandi.herokuapp.com/api?handle=pepper_pudding&theme=warm"/>
   
   ### 🎀 PEPPER-PUDDING 🎀 
   ---
