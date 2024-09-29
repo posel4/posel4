@@ -1,12 +1,40 @@
 <div align="center">
-  
-  <img align="right" src="http://mazandi.herokuapp.com/api?handle=pepper_pudding&theme=warm"/>
-  
-  ### 🎀 PEPPER-PUDDING 🎀 
-  ---
-  
-  <a href="https://github.com/pepper-pudding"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpepper-pudding&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/pepper_pudding"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pepper_pudding"/></a> <a href="https://offtheymir.tistory.com"><img src="https://img.shields.io/badge/ServerDevPudding-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+<br><br><br>
 
-  <br>
+<!-- Don't just fork or copy it. Star it, please 🥺  -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Posel.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br><br>
+
+<!-- posel4's profile -->
  
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=posel4&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
+</a>
+<a href="https://github.com/posel4/github-stats">
+ <img src="https://raw.githubusercontent.com/posel4/github-stats/output/generated/languages.svg" width=51% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=posel4&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+
+
+<br><br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fposel4&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+
+<!--
+**posel4/posel4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  -->
